@@ -722,7 +722,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background4.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
